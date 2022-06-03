@@ -1,27 +1,27 @@
 {
-    "id": "240AFDCF",
-    "path": "C:/Users/cdawg/git_repos/elestra/02-timeline.Rmd",
-    "project_path": "02-timeline.Rmd",
+    "id": "7F0A0B98",
+    "path": "C:/Users/cdawg/git_repos/elestra/04-religion.Rmd",
+    "project_path": "04-religion.Rmd",
     "type": "r_markdown",
-    "hash": "0",
+    "hash": "3784624441",
     "contents": "",
     "dirty": false,
-    "created": 1654232788153.0,
+    "created": 1654233023762.0,
     "source_on_save": false,
-    "relative_order": 4,
+    "relative_order": 6,
     "properties": {
         "tempName": "Untitled1",
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "167,8",
-        "scrollLine": "162"
+        "cursorPosition": "2,24",
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1654232202,
+    "lastKnownWriteTime": 1654233071,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1654232202,
+    "last_content_update": 1654233071,
     "read_only": false,
     "read_only_alternatives": []
 }

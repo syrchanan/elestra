@@ -1,2 +1,5 @@
 introduction
 timeline
+kingdoms-and-races
+beliefs-and-deities
+appendices
