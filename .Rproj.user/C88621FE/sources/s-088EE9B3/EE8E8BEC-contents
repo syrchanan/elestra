@@ -1,0 +1,22 @@
+---
+title: "Lore of Elestra"
+author: "Conomor Tideswimmer, Keeper of the Chronicles"
+date: "25,277 HEA"
+site: bookdown::bookdown_site
+output:
+  bookdown::gitbook: default
+documentclass: book
+description: "A survey of the histories, peoples, and places of Elestra."
+---
+
+# Preface {-}
+
+This novel will be, in aim, a brief history of the World of Elestra. Though that is the goal, I have many notes compiled from various historians and scholars on the inhabitants, locales, religions, and major events of the world - all of which ought to be included in some fashion.  
+
+There are many fables told in this land, and even more untold. Countless stories have been passed from generation to generation, though it must be remembered - even more stories have been forgotten. It can't be known how many are lost, though frequent editions of this book will be updated with what is found.  
+
+I do not claim to know these lands, peoples, places, and events best - I only endeavor to reflect what has been passed to me, such that others may continue on in my stead after my time has come.
+
+Ages come and pass, and memories oft become legend. Legend becomes myth, and myth becomes forgotten. As one age begins another ends, and the gods remain through it all. The gods weave as the gods will, and no mortal shall ever influence their designs. To our successors, to our progenitors, and to us, this world is its own. Living, breathing, growing, it is ever changing...
+
+-Conomor Tideswimmer, Keeper of the Chronicles
