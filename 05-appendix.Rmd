@@ -2,4 +2,38 @@
 
 ## Appendix A - Maps {-}
 
-Put Maps here
+### World Map
+
+![](./images/maps/world_elestra.png)
+
+### Western Continent
+
+![](./images/maps/west_continent.jpg)
+
+### Central Continent
+
+![](./images/maps/central_continent.jpg)
+
+### Eastern Continent
+
+![](./images/maps/east_continent.jpg)
+
+### Eastern Isles
+
+![](./images/maps/east_isles.jpg)
+
+### Anor
+
+![](./images/maps/anor.jpg)
+
+### Free City
+
+![](./images/maps/free_city.jpg)
+
+### "Deep City"
+
+![](./images/maps/deepcity.jpg)
+
+### Under the Sea
+
+![](./images/maps/Underthesea.jpg)

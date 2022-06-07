@@ -3,3 +3,12 @@ timeline
 kingdoms-and-races
 beliefs-and-deities
 appendices
+world-map
+western-continent
+central-continent
+eastern-continent
+eastern-isles
+anor
+free-city
+deep-city
+under-the-sea
