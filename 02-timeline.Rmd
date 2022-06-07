@@ -90,19 +90,34 @@ How these names are written in their language:
 
 The First Dwarfs (the *Drudain Kruz*, Dwarvish for "People of Stone") awoke in the deep darkness of the mountain caves.  
 
+![](./images/timeline/dwarven_city.jpg)
+![](./images/timeline/dwarven_throne.jpg)
+
 They were skilled artisans, and for many decades they thought that there was only dark caves and tunnels to the whole of the world. As they delved ever deeper into the dark earth, they finally emerged to the surface one day. They built great underground cities and marvels, becoming unsurpassed in their craftsmanship and forging. For this reason, many dwarfs worship Pavdos god of fire along with the Maker.  
+
+![](./images/timeline/dwarf_mountain_village.jpg)
 
 They first encountered the Elves, and were surprised by their races' differences. Though there was mostly peace between them and the Elves, only minor dispute wars were fought.  
 
+![](./images/timeline/dwarven_hall.jpg)
+
 However, a great war was fought with the Goblins, which were led by horrible creatures called *Unok*. These were encountered for the first time ever in the deepest dark. This war was brutal, with the dwarves losing half of their massive underground empire, which lasted for hundreds of years before the tide was stopped. Many “reclamation wars” have since been fought.  
+
+![](./images/timeline/unok.jpg
+
+![](./images/timeline/goblins.png)
 
 ### 13,227 HEA {-}  
 
 A Group of Elves set off to the mystical forest of *Thalanil*, which literally translates to "Deep Wood".  
 
-Wood Elves, as they became known as, are rarely seen outside of their forest, which is shrouded in mystery. Almost all who enter are never seen again, or oddly find themselves turned outward away from the forest when they were trying to enter.  
+Wood Elves, as they became known as, are rarely seen outside of their forest, which is shrouded in mystery. Almost all who enter are never seen again, or oddly find themselves turned outward away from the forest when they were trying to enter. 
+
+![](./images/timeline/elf_city.jpg)
 
 Only the oldest High elves can even remember the names of their kin that live there. However, only a very few know why. Wood elves are immortal, just as the high elves are. 
+
+![](./images/timeline/wood_elf.jpg)
 
 Nowadays, many small human towns and villages are dotted around the forest. Only the most brave - or those that worship Noxel, the god of nature - dare live near the forest, since it is considered cursed by some, and blessed by others.   
 One human scholar by the name of Riknard Vilcon spent his whole life with the High elves trying to ascertain why the Wood Elves left their High bretheren, and what they are presently doing. This was not a easy thing for him to research, as the Elves refused to answer him. Though after decades of prying into the matter, he learned only one thing from a very old scroll that was more myth and legend then reliable source:  
@@ -125,7 +140,11 @@ Together, they all formed an alliance to fight a massive giant and ogre invasion
 
 After winning this hard fought war, the Elven prince *Eli'Tion*, his name meaning “Bright sun”, married the human queen of the largest human kingdom. Her name was Vereen and they started the Dawn bloodline - and also founded the Kingdom of Solen. The elven blood has blessed the Dawn line with extended long life, and all Dawn children to this day have dark hair like that of *Eli'tion*.  
 
-*Eli'tion* was mercifully put to sleep, at his request, with his wife Vereen when she passed, since he could not bear her passing. Many humans have chosen to forget this Elven lineage nowadays, and even depict him as a normal human in most art and paintings. He is often even renamed *Etion*, a more humanized spelling of his name.
+![Original Portrait of King *Eli'tion*](./images/timeline/King_EliTion.jpg)
+
+*Eli'tion* was mercifully put to sleep, at his request, with his wife Vereen when she passed, since he could not bear her passing. Many humans have chosen to forget this Elven lineage nowadays, and even depict him as a normal human in most art and paintings. He is often even renamed *Etion*, a more humanized spelling of his name.  
+
+![Current Portrait of King *Etion*](./images/timeline/King_Etion.jpg)
 
 ### 17,227 HEA {-}  
 
@@ -139,13 +158,21 @@ In hindsight, this event has been deemed formative enough on the rest of history
 
 ### 17,727 HEA {-}  
 
-The elf mage Nashia formed what is now known as the spider cult.  
+The elf mage Nashia formed what is now known as the spider cult. 
+
+![](./images/timeline/Nashia.JPG)
 
 They devoted themselves to dark magic and Vocella, the goddess of secrets. Nashia, her kin, and followers were cast out from the forest as they were threatening to destroy it from their magics.  
 
+![](./images/timeline/dark_kingdom.jpg)
+
 Noxel, seeing this group and their wickedness, broke their connection to nature and immortality. Their skin went dark and their eyes turned red, then they were banished from all High elven society forever.  
 
+![](./images/timeline/dark_ship.jpg)
+
 After this, the cult started to take people of all races - to kill them in magic rituals as a way to extend their own lives. Cult members lived about 750 years normally - but “can”, through their horrible magics, live 2,000 years. Nashia is the exception, as she still rules them today and is the oldest living Dark Elf.  
+
+![](./images/timeline/cult_member.jpg)
 
 The Dark Elves have even formed their own kingdom, under the reign of Nashia.
 
@@ -153,7 +180,15 @@ The Dark Elves have even formed their own kingdom, under the reign of Nashia.
 
 The Human Kingdom of Anor was formed.  
 
+![](./images/timeline/anor.jpg)
+
+![](./images/timeline/anor_halls.jpg)
+
 Located on the northern icy continent, the humans endured many significant events - including protecting and siding with dragons. These pacts with the dragons were aimed at aiding inpurging the island of all remaining Giants. Namely, the Stormwind Family made an alliance with the Red Dragon Flight - and even has dragon blood flowing in the royal family’s veins.  
+
+![](./images/timeline/anor_knight.jpg)
+
+![](./images/timeline/anor_soldier.jpg)
 
 ### 19,727 HEA {-}  
 
@@ -197,6 +232,8 @@ The endeavor was a succes, and for 400 years they ruled the desert. The Narshin 
 The Humans launched a campaign of purification against the world.  
 
 King Helon the Mighty - or the Usurper, as some call him - was an outsider from Anor and the second husband of the human dawn queen Marcel. She had two sons from her previous marriage to a "true" member of the Dawn lineage. However, once Helon had gained his new title and the support of the generals of Solen, he set out on a bloody crusade to purge all that was not human.  
+
+![King Helon the Mighty](./images/timeline/King_Helon.jpg)
 
 This decision broke the long standing alliances the humans had with the Elves and Dwarfs. For 40 years, he waged a terrible war Called “The War of Judgment” by many humans, claiming all non-humans were to blame for all the troubles of the world.  
 
