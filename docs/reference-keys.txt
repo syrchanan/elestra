@@ -1,6 +1,7 @@
 introduction
 timeline
 kingdoms-and-races
+companies
 beliefs-and-deities
 appendices
 world-map

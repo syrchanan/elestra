@@ -3,6 +3,7 @@ site: "bookdown::bookdown_site"
 output_dir: "docs"
 output:
   bookdown::gitbook:
+    css: css/mystyles.css  
     lib_dir: "book_assets"
   bookdown::pdf_book:
     keep_tex: yes
